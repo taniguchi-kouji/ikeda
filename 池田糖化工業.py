@@ -24,16 +24,4 @@ st.markdown("""
 
 
 
-### リンク先
-①   [池田糖化工業㈱裏サイト](https://wwwikeda.streamlit.app/)
-
-②   [池田糖化工業㈱裏の裏の裏サイト](https://bnxbbypxtbemtbouhgaqew.streamlit.app/)
-
-③   [池田糖化工業㈱裏の裏の裏の裏サイト](https://ikedaikeda.streamlit.app/)
-
-④   [池田糖化工業㈱ブログ](https://ytetsu.pythonanywhere.com/)
-
-★   [池田糖化工業㈱裏サイト特集](https://ikedatohka.pythonanywhere.com/)
-
-
 """)
